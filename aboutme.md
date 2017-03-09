@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:   Do anything you love
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi again, my name is Shivam Singhal, I'm a first year undergraduate student from Guru Gobind Singh Indraprastha University([GGSIPU](http://www.ipu.ac.in/){:target="_blank"}), New Delhi, India, pursuing Bachelor of Technology in Computer Science & Engineering.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a programmer, software developer, yo ! apart from these I love listening to music. I love to create digital art and play around with my Photoshop skills. Loves to meet new people, connect, discuss, network and grow, mostly at software developers' conferences, dev-fests and gaming meet-ups.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+An avid open source enthusiast, contributor and a linux guy. So let's connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail [here](mailto:championshuttler@gmail.com).
